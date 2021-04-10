@@ -1,28 +1,21 @@
-# Projeto-DIO-HTML-Jogo-Dinossauro
-
-:spiral_calendar: Atualizado em 03 de Março de 2021 :heart:
+:spiral_calendar: Atualizado em 10 de Abril de 2021 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
 # Projeto Digital Innovation One HTML
-# Recriando a interface do Netflix
-Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/felipeAguiarCode/netflix-clone
+# Recriando o famoso jogo do dinossauro sem internet
+- Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/celso-henrique/dio-dino-game
+- Professor: Celso Henrique
+- Aula: https://web.digitalinnovation.one/lab/recriando-o-famoso-jogo-do-dinossauro-sem-internet/learning/513cae7f-e6c3-42da-9581-58e790b3d71b
 
 # Descrição
-Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
+Neste projeto você terá o desafio de criar uma cópia do jogo do dinossauro, famoso no Chrome por nos entreter quando estamos sem conexão. Nele iremos utilizar HTML, CSS e JavaScript, abordando de maneira simples diversos conceitos introdutórios importantes para programação na web como tags básicas de HTML, manipulação de eventos, funções e manipulação de elementos HTML usando JavaScript, estilização e animações básicas com CSS.
 
 # Melhorias implementadas
-- Obtive outras imagens do site TMDB https://www.themoviedb.org/?language=pt-BR
-- Crie pastas para segregar as imagens por página do site
-- Arredondei as bordas dos botões (inclusive no hover)
-- Coloquei link no botão assistir agora para ativar página de "traillers"
-- Criei página de "traillers" para exibir quatro "traillers" do YouTube
-- Configurei OWL para "traillers" e "info"
-- Coloquei link no botão "Início" do menu superior para chamar o "index.html"
-- Coloquei link no logotipo NETFLIX do menu superior para chamar o "index.html"
+- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Melhorias futuras
-- Implementar back-end ou api para não ser estático
+- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Exemplos de telas
 
