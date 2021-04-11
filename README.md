@@ -23,7 +23,7 @@ Um clone do famoso Jogo do Dinossauro que aparece no Google Chrome quando não h
 # Exemplos de telas
 
 ## Tela DO JOGO
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-traillers.jpg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Dinossauro/blob/main/screen-tests/tela-do-jogo.jpg"/>
 
 ## Tela DO GAME OVER
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-info.jpg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Dinossauro/blob/main/screen-tests/tela-game-over.jpg" />
