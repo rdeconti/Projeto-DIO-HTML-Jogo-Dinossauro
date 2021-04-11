@@ -1,4 +1,4 @@
-:spiral_calendar: Atualizado em 10 de Abril de 2021 :heart:
+:spiral_calendar: Atualizado em 11 de Abril de 2021 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
@@ -11,19 +11,19 @@
 # Descrição
 Neste projeto você terá o desafio de criar uma cópia do jogo do dinossauro, famoso no Chrome por nos entreter quando estamos sem conexão. Nele iremos utilizar HTML, CSS e JavaScript, abordando de maneira simples diversos conceitos introdutórios importantes para programação na web como tags básicas de HTML, manipulação de eventos, funções e manipulação de elementos HTML usando JavaScript, estilização e animações básicas com CSS.
 
-# Melhorias implementadas
-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# Jogo
+Um clone do famoso Jogo do Dinossauro que aparece no Google Chrome quando não há conexão com a internet, esse é um projeto bem simples desenvolvido em JavaScript e existem 2 versões, a clássica e outra com algumas modificações minhas.
 
-# Melhorias futuras
-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# Melhorias implementadas
+- Criei uma pasta para conter todas as imagens e ajustei todos os endereços no código
+- Criei uma pasta para conter o javascript e ajustei todos os endereços no código
+- Alterei cores e tamanhos dos objetos
+- Alterei a cor do backgroud do dinossauro paara ter melhor visibilidade
 
 # Exemplos de telas
 
-## Tela INICIAL
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-index.jpeg" />
-
-## Tela TRAILLERS
+## Tela DO JOGO
 <img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-traillers.jpg" />
 
-## Tela MAIS INFORMAÇÕES
+## Tela DO GAME OVER
 <img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-info.jpg" />
